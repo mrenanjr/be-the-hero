@@ -1,0 +1,2 @@
+[0422/191429.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0422/191429.492:ERROR:exception_snapshot_win.cc(98)] thread ID 28996 not found in process
